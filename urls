@@ -1,0 +1,72 @@
+# queries
+
+"query:Cool YouTubers:unread = \"yes\" and tags # \"youtubers\""
+
+"query:Motorcycle YouTubers:unread = \"yes\" and tags # \"motorcycle\""
+
+"query:Car YouTubers:unread = \"yes\" and tags # \"cars\""
+
+"query:Linux:unread = \"yes\" and tags # \"linux\""
+
+"query:Gentoo:unread = \"yes\" and tags # \"gentoo\""
+
+"query:Bass:unread = \"yes\" and tags # \"bass\""
+
+
+https://youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA youtubers "~Luke Smith"
+
+https://security.gentoo.org/glsa/feed.rss gentoo "~Security"
+
+https://www.kernel.org/feeds/all.atom.xml linux "~The Linux Kernel"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA youtubers "~Mental Outlaw"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg youtubers
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ youtubers "~Chris Titus Tech"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLXyTdcn3hwTbhE0e3R3V5g motorcycle "~ΤΟΥ ΜΠΟΥΣΑ Ο ΥΙΟΣ"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCfV30f4JDx4hSpbcgikvB6g motorcycle "~SuperBike Racer"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrmsruqPgCIs4PImiZs0t9w cars "~Best Motoring"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqE3IQPWUDA9PZGaT6BDAKw cars "~Gears and Gasoline"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCDfStxwji-22A_bvY280UIg bass "~Talking Bass"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAi_uNeDWRXj8C8yw358gWw bass "~Charles Berthoud"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSK2ubdknvyXxY_UI7jVNZw motorcycle "~Rocket Dust"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMjlE3fFz579uvzo7NpmNpg cars "~Vegetable Tsai"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCm9lqWLMec4klbLEtUxKSbg linux "~Gaming on Linux"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3TUCGI-7rSjvHsE4ONXRww youtubers "~Millenia Thinker"
+
+https://opensource.com/feed "~Opensource.com"
+
+https://planet.gnu.org/rss20.xml "~GNU"
+
+https://www.linuxinsider.com/rss-feed linux "~Linux Insider"
+
+https://www.reddit.com/r/leagueoflinux.rss linux "~r/leagueoflinux"
+
+https://www.reddit.com/r/linux.rss linux "~r/linux"
+
+https://www.bitchute.com/feeds/rss/channel/xaros youtubers "~Xarewn"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCO1vwPGm9gkM8uhUcQgsw-w youtubers "~Мануэль"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9KvrhhUgAfO0nZUlhA6foA youtubers "~Ethannij"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCpJw2H9KKqwCCGQKRh1Bf2w youtubers "~Faker"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCapQjFVfF9L8WBc-qLrZbKg motorcycle "~Moto Duck"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCHL9bfHTxCMi-7vfxQ-AYtg youtubers "~Abroad in Japan"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcmxOGYGF51T1XsqQLewGtQ youtubers "~Trash Taste"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8buAuNOOlnkZ670gLZqWSg youtubers "~Το Κρεμμύδι"
