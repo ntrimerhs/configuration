@@ -19,39 +19,30 @@ URxvt*tintColor: #ffffff
 URxvt*shading: 0
 URxvt*inheritPixmap: False
 
-! special
-*.foreground:   #f1fcf8
-*.background:   #111012
-*.cursorColor:  #f1fcf8
+!black
+URxvt.color0:  #000000
+URxvt.color8:  #2B2B2B
+!red
+URxvt.color1:  #A5372E
+URxvt.color9:  #E06C5C 
+!green
+URxvt.color2:  #4A663C 
+URxvt.color10: #7B996C
+!yellow
+URxvt.color3:  #7C5618
+URxvt.color11: #B38849
+!blue
+URxvt.color4:  #566060
+URxvt.color12: #889393
+!magenta
+URxvt.color5:  #8E4948
+URxvt.color13: #C67C78
+!cyan
+URxvt.color6:  #6D5B42
+URxvt.color14: #A28D73
+!white
+URxvt.color7:  #8D8D8D
+URxvt.color15: #C6C6C6
 
-! black
-*.color0:       #b4b4aa
-*.color8:       #b4b4aa
-
-! red
-*.color1:       #64605f
-*.color9:       #64605f
-
-! green
-*.color2:       #7e8d88
-*.color10:      #7e8d88
-
-! yellow
-*.color3:       #d0d4b9
-*.color11:      #d0d4b9
-
-! blue
-*.color4:       #b0c2c2
-*.color12:      #b0c2c2
-
-! magenta
-*.color5:       #f3fcf7
-*.color13:      #f3fcf7
-
-! cyan
-*.color6:       #988c80
-*.color14:      #988c80
-
-! white
-*.color7:       #70735e
-*.color15:      #70735e
+urxvt.background: #111111 
+urxvt.foreground: 15
