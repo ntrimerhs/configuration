@@ -2,7 +2,7 @@
 構成
 
 ```Configuration files for my personal computer. Operating systems used:
-Gentoo Linux
+Gentoo Linux {AMD}
 Arch Linux
 Windows 10/11
 ```
