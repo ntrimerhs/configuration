@@ -4,5 +4,5 @@
 ```Configuration files for my personal computer. Operating systems used:
 Gentoo Linux
 Arch Linux
-Windows 10
+Windows 10/11
 ```
