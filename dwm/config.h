@@ -14,9 +14,9 @@ static const char *fonts[]          = { "JetBrains Mono:size=14" };
 static const char dmenufont[]       = "JetBrains Mono:size=14";
 static const char col_gray1[]       = "#222222";
 static const char col_gray2[]       = "#444444";
-static const char col_gray3[]       = "#ffffff";
-static const char col_gray4[]       = "#444444";
-static const char col_cyan[]        = "#222222";
+static const char col_gray3[]       = "#bd93f9";
+static const char col_gray4[]       = "#bd93f9";
+static const char col_cyan[]        = "#444444";
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
 	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
