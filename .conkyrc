@@ -6,6 +6,7 @@ update_interval = 2,
 total_run_times = 0,
 use_spacer = 'none',
 };
+
 conky.text = [[
-[CPU  ${cpu cpu1}%] [RAM  $memperc%] ${time %a %b %d %I:%M%P}
+[󰆬${execi 60 curl -s https://api.coinbase.com/v2/prices/spot?currency=USD | jq '.data.amount' | sed -E 's/(,"*)//' | xargs printf " = $%.2f"}] [${upspeed enp1s0} ${downspeed enp1s0}] [墳${if_pa_sink_muted}OFF$else${pa_sink_volume}%$endif] [󰘚${cpu cpu1}%] [󰍛$memperc%] [󱨴${time %a %b %d %I:%M%P}]
 ]];
