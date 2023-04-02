@@ -5,13 +5,13 @@ function power {
   options="Shutdown\nReboot\n󰜺Cancel"
   selected=$(echo -e $options | dmenu)
 
-  if [[ $selected = "Shutdown" ]]; then
+  if [[ $selected = "Shutdown" ]]; then
     poweroff
 
-  elif [[ $selected = "Restart" ]]; then
+  elif [[ $selected = "Reboot" ]]; then
     reboot
 
-  elif [[ $selected = "Cancel" ]]; then
+  elif [[ $selected = "󰜺Cancel" ]]; then
     return
 
   fi
