@@ -1,3 +1,8 @@
+export GTK_IM_MODULE='uim'
+export QT_IM_MODULE='uim'
+uim-xim &
+uim-toolbar-gtk3-systray &
+export XMODIFIERS='@im=uim'
 picom -f &
 pulseaudio &
 xrdb ~/.Xresources &
